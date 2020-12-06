@@ -18,4 +18,4 @@
 
 * ## 📇 contact
   * [Facebook](https://www.facebook.com/boom.puvana)
-    [Instagram](https://www.instagram.com/noboomta/)
+  * [Instagram](https://www.instagram.com/noboomta/)
