@@ -15,3 +15,7 @@
     ```
   * ### 🏫 2019-Now University
     * Software Engineering Kasetsart University
+
+* ## 📇 contact
+  * [Facebook](https://www.facebook.com/boom.puvana)
+    [Instagram](https://www.instagram.com/noboomta/)
