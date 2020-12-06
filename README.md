@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there visitor 👋
 
-<!--
-**Noboomta/Noboomta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* ## 😄 Life
+  * ### 🏫 2000-2012 Elementary School
+    * Saint Dominic School, Bangkok
+  * ### 🏫 2013-2016 Middle School
+    * Samsen Wittayalai School, Bangkok
+  * ### 🏫 2016-2019 High School
+    * Mathematics and Science Enrichment Program <br>
+      Samsen Wittayalai School, Bangkok
+    ```c
+      #include <"POSN COM2">
+      #include <"Robocon 2017 @RMUTP University">
+      #include <"SIT code 2017 @King Mongkut's University">
+    ```
+  * ### 🏫 2019-Now University
+    * Software Engineering Kasetsart University
