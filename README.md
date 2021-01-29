@@ -5,6 +5,6 @@
   * [Port](https://noboomta.github.io/)
   * [LinkedIn](https://www.linkedin.com/in/puvana-swatvanith-74706b205/)
   
-  ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=noboomta&layout=compact&theme=python&langs_count=20)<br><br>
+  ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=noboomta&layout=compact&theme=python&langs_count=10&hide=CMake,Makefile)<br><br>
   ![Github stats](https://github-readme-stats.vercel.app/api?username=noboomta&theme=highcontrast&show_icons=true&count_private=true&theme=python) 
  
