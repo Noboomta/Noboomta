@@ -7,5 +7,3 @@
   
   ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=noboomta&layout=compact&theme=python&langs_count=10&hide=CMake,Makefile)<br><br>
   ![Github stats](https://github-readme-stats.vercel.app/api?username=noboomta&theme=highcontrast&show_icons=true&count_private=true&theme=python) 
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=noboomta)](https://github.com/anuraghazra/github-readme-stats)
- 
