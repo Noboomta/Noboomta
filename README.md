@@ -7,4 +7,4 @@
   
   ![Github stats](https://github-readme-stats.vercel.app/api?username=noboomta&theme=highcontrast&show_icons=true&count_private=true) <br>
   ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=noboomta&layout=compact)
-  //[![noboomta](https://github-readme-stats.vercel.app/api/pin/?username=noboomta&repo=noboomta)](https://github.com/noboomta/noboomta)
+  #[![noboomta](https://github-readme-stats.vercel.app/api/pin/?username=noboomta&repo=noboomta)](https://github.com/noboomta/noboomta)
