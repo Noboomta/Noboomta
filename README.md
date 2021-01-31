@@ -9,6 +9,10 @@
   
   ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=noboomta&layout=compact&theme=python&langs_count=10&hide=CMake,Makefile)<br><br>
   ![Github stats](https://github-readme-stats.vercel.app/api?username=noboomta&theme=highcontrast&show_icons=true&count_private=true&theme=python) 
+  
+ [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+⚡ Recent Activity
 
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#117](https://github.com/lisbono2001/Covid19-Tracker/issues/117) in [lisbono2001/Covid19-Tracker](https://github.com/lisbono2001/Covid19-Tracker)
