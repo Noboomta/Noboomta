@@ -7,10 +7,12 @@
   * [Port](https://noboomta.github.io/)
   * [LinkedIn](https://www.linkedin.com/in/puvana-swatvanith-74706b205/)
   
-  ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=noboomta&layout=compact&theme=python&langs_count=10&hide=CMake,Makefile)<br><br>
+  ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=noboomta&layout=compact&theme=python&langs_count=10&hide=CMake,Makefile)
   ![Github stats](https://github-readme-stats.vercel.app/api?username=noboomta&theme=highcontrast&show_icons=true&count_private=true&theme=python) 
   
- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+🏆 GitHub Trophies 
+
+ [![trophy](https://github-profile-trophy.vercel.app/?username=noboomta&theme=darkhub)](https://github.com/noboomta/github-profile-trophy)
 
 ⚡ Recent Activity
 
