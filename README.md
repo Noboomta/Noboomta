@@ -51,7 +51,7 @@ I'm Software Engineering student from Bangkok, Thailand 🇹🇭 <br>
 ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#117](https://github.com/lisbono2001/Covid19-Tracker/issues/117) in [lisbono2001/Covid19-Tracker](https://github.com/lisbono2001/Covid19-Tracker)
+1. 💪 Opened PR [#1](https://github.com/Noboomta/torpleng/pull/1) in [Noboomta/torpleng](https://github.com/Noboomta/torpleng)
 <!--END_SECTION:activity-->
 
 <hr>
