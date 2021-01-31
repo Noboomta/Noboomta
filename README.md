@@ -51,7 +51,7 @@ I'm Software Engineering student from Bangkok, Thailand 🇹🇭 <br>
 ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Noboomta/torpleng/pull/1) in [Noboomta/torpleng](https://github.com/Noboomta/torpleng)
+1. 🎉 Merged PR [#1](https://github.com/Noboomta/torpleng/pull/1) in [Noboomta/torpleng](https://github.com/Noboomta/torpleng)
 <!--END_SECTION:activity-->
 
 <hr>
