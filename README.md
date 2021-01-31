@@ -11,4 +11,5 @@
   ![Github stats](https://github-readme-stats.vercel.app/api?username=noboomta&theme=highcontrast&show_icons=true&count_private=true&theme=python) 
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#1](https://github.com/TopsonArcana/Compro2/issues/1) in [TopsonArcana/Compro2](https://github.com/TopsonArcana/Compro2)
 <!--END_SECTION:activity-->
