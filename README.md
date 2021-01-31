@@ -23,7 +23,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=Firebase&logoColor=black)
 
 
-I'm Software developer from Bangkok, Thailand 🇹🇭 <br>
+I'm Software Engineering student from Bangkok, Thailand 🇹🇭 <br>
   * Second year student at [Kasetsart University](https://www.ku.ac.th/th)
 
   * [Portfolio](https://puvana-dev.web.app/)
@@ -32,20 +32,31 @@ I'm Software developer from Bangkok, Thailand 🇹🇭 <br>
   * [Port](https://noboomta.github.io/)
   * [LinkedIn](https://www.linkedin.com/in/puvana-swatvanith-74706b205/)
  
+ <hr>
+ 
 📈 My GitHub Stats
   
   ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=noboomta&layout=compact&theme=tokyonight&langs_count=10&hide=CMake,Makefile)
   ![Github stats](https://github-readme-stats.vercel.app/api?username=noboomta&theme=tokyonight&show_icons=true&count_private=true&) 
   
+ <hr>
+  
 🏆 GitHub Trophies 
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=noboomta&theme=darkhub)](https://github.com/noboomta/github-profile-trophy)
+ 
+ <hr>
+
 
 ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#117](https://github.com/lisbono2001/Covid19-Tracker/issues/117) in [lisbono2001/Covid19-Tracker](https://github.com/lisbono2001/Covid19-Tracker)
 <!--END_SECTION:activity-->
+
+<hr>
+
+![Github Streaks](https://github-readme-streak-stats.herokuapp.com/?user=noboomta&hide_border=true&theme=react)<br>
 
 <a target="_blank" href="https://www.linkedin.com/in/puvana-swatvanith-74706b205/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:puvana.jp36@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
