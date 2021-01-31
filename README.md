@@ -6,9 +6,11 @@
   * [Instagram](https://www.instagram.com/noboomta/)
   * [Port](https://noboomta.github.io/)
   * [LinkedIn](https://www.linkedin.com/in/puvana-swatvanith-74706b205/)
+ 
+📈 My GitHub Stats
   
-  ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=noboomta&layout=compact&theme=python&langs_count=10&hide=CMake,Makefile)
-  ![Github stats](https://github-readme-stats.vercel.app/api?username=noboomta&theme=highcontrast&show_icons=true&count_private=true&theme=python) 
+  ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=noboomta&layout=compact&theme=tokyonight&langs_count=10&hide=CMake,Makefile)
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=noboomta&theme=tokyonight&show_icons=true&count_private=true&) 
   
 🏆 GitHub Trophies 
 
