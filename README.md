@@ -26,11 +26,11 @@
 <strong>I'm Software Engineering student from Bangkok, Thailand 🇹🇭 <br></strong>
   * Second year student at [Kasetsart University](https://www.ku.ac.th/th)
 
-  * [Portfolio](https://puvana-dev.web.app/)
-  * [Facebook](https://www.facebook.com/boom.puvana)
-  * [Instagram](https://www.instagram.com/noboomta/)
-  * [Port](https://noboomta.github.io/)
-  * [LinkedIn](https://www.linkedin.com/in/puvana-swatvanith-74706b205/)
+  * [puvana-dev.web.app](https://puvana-dev.web.app/)
+  * [noboomta.github.io](https://noboomta.github.io/)
+  * [Facebook/boom.puvana](https://www.facebook.com/boom.puvana)
+  * [Instagram/noboomta](https://www.instagram.com/noboomta/)
+  * [LinkedIn/puvana-swatvanith-74706b205](https://www.linkedin.com/in/puvana-swatvanith-74706b205/)
  
  <hr>
  
