@@ -23,7 +23,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=Firebase&logoColor=black)
 
 
-<strong>I'm Software Engineering student from Bangkok, Thailand 🇹🇭 <br></strong>
+<strong>My name is Puvana, Boom now I'm a Software Engineering student from Bangkok, Thailand 🇹🇭 <br></strong>
   * Second year student at [Kasetsart University](https://www.ku.ac.th/th)
 
   * [puvana-dev.web.app](https://puvana-dev.web.app/)
