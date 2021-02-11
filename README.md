@@ -25,7 +25,6 @@
 
 <strong>My name is Puvana, Boom now I'm a Software Engineering student from Bangkok, Thailand 🇹🇭 <br></strong>
   * Second year student at [Kasetsart University](https://www.ku.ac.th/th)
-
   * [puvana-dev.web.app](https://puvana-dev.web.app/)
   * [noboomta.github.io](https://noboomta.github.io/)
   * [Facebook/boom.puvana](https://www.facebook.com/boom.puvana)
