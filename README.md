@@ -32,20 +32,20 @@
   * [Instagram/noboomta](https://www.instagram.com/noboomta/)
   * [LinkedIn/puvana-swatvanith-74706b205](https://www.linkedin.com/in/puvana-swatvanith-74706b205/)
  
- <hr>
+<hr>
  
 📈 My GitHub Stats
   
   ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=noboomta&layout=compact&theme=tokyonight&langs_count=10&hide=CMake,Makefile)
   ![Github stats](https://github-readme-stats.vercel.app/api?username=noboomta&theme=tokyonight&show_icons=true&count_private=true&) 
   
- <hr>
+<hr>
   
 🏆 GitHub Trophies 
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=noboomta&theme=darkhub)](https://github.com/noboomta/github-profile-trophy)
  
- <hr>
+<hr>
 
 ⚡ Recent Activity
 
