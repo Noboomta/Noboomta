@@ -10,7 +10,6 @@
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/-Rails-CC0000?style=flat&logo=Ruby-on-Rails&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
