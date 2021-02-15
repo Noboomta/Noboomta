@@ -47,7 +47,7 @@
 ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Noboomta/torpleng/pull/1) in [Noboomta/torpleng](https://github.com/Noboomta/torpleng)
+1. 🎉 Merged PR [#1](https://github.com/group9-exceed2021/cyber_ware/pull/1) in [group9-exceed2021/cyber_ware](https://github.com/group9-exceed2021/cyber_ware)
 <!--END_SECTION:activity-->
 
 <hr>
