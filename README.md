@@ -39,12 +39,7 @@
   ![Github stats](https://github-readme-stats.vercel.app/api?username=noboomta&theme=tokyonight&show_icons=true&count_private=true&) 
   
 <hr>
-  
-🏆 GitHub Trophies 
-
- [![trophy](https://github-profile-trophy.vercel.app/?username=noboomta&theme=darkhub)](https://github.com/noboomta/github-profile-trophy)
  
-<hr>
 
 ⚡ Recent Activity
 
@@ -52,9 +47,6 @@
 1. ❗️ Opened issue [#1](https://github.com/group9-exceed2021/TheREAL_cyber_ware/issues/1) in [group9-exceed2021/TheREAL_cyber_ware](https://github.com/group9-exceed2021/TheREAL_cyber_ware)
 <!--END_SECTION:activity-->
 
-<hr>
-
-![Github Streaks](https://github-readme-streak-stats.herokuapp.com/?user=noboomta&hide_border=true&theme=react)<br>
 
 <a target="_blank" href="https://www.linkedin.com/in/puvana-swatvanith-74706b205/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:puvana.jp36@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
