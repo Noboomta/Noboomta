@@ -48,7 +48,7 @@
 ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/group9-exceed2021/cyber_ware/pull/2) in [group9-exceed2021/cyber_ware](https://github.com/group9-exceed2021/cyber_ware)
+1. ❗️ Opened issue [#1](https://github.com/group9-exceed2021/TheREAL_cyber_ware/issues/1) in [group9-exceed2021/TheREAL_cyber_ware](https://github.com/group9-exceed2021/TheREAL_cyber_ware)
 <!--END_SECTION:activity-->
 
 <hr>
