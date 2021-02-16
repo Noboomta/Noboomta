@@ -54,5 +54,7 @@
 
 ![Github Streaks](https://github-readme-streak-stats.herokuapp.com/?user=noboomta&hide_border=true&theme=react)<br>
 
+![wakatime](https://wakatime.com/share/@8f2440d6-a878-4252-af91-e3285d7484db/126ad9ea-d9ea-4a06-b63a-5b8d80d7a708.svg)
+
 <a target="_blank" href="https://www.linkedin.com/in/puvana-swatvanith-74706b205/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:puvana.jp36@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
