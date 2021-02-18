@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/-java-007396?style=flat&logo=java&logoColor=red)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=Ruby&logoColor=white)
-![C](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-A8B9CC?style=flat&logo=C%2B%2B&logoColor=white)
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
