@@ -1,4 +1,4 @@
-### Hi there visitor 👋
+### Hi visitor 👋
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=noboomta)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
