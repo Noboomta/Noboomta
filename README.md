@@ -43,7 +43,7 @@
 ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/group9-exceed2021/Cyber-Ware/issues/1) in [group9-exceed2021/Cyber-Ware](https://github.com/group9-exceed2021/Cyber-Ware)
+1. 🎉 Merged PR [#1](https://github.com/Noboomta/Computer-Programming2-SKE-KU-2019/pull/1) in [Noboomta/Computer-Programming2-SKE-KU-2019](https://github.com/Noboomta/Computer-Programming2-SKE-KU-2019)
 <!--END_SECTION:activity-->
 
 
