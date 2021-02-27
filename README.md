@@ -1,6 +1,5 @@
 ### Hi visitor 👋
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=noboomta)
-![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/864?logoColor=white%26project=%26recentMS=604800000%26showProject=false)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
@@ -23,6 +22,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=Firebase&logoColor=black)
 
+![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/864?logoColor=white%26project=%26recentMS=604800000%26showProject=false)
 
 <strong>My name is Puvana, Boom now I'm a Software Engineering student from Bangkok, Thailand 🇹🇭 <br></strong>
   * Second year student at [Kasetsart University](https://www.ku.ac.th/th)
