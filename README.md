@@ -1,5 +1,5 @@
 ### Hi visitor 👋
-#### My name is Puvana, Boom now I'm a Software Engineering student from Bangkok, Thailand 🇹🇭
+#### My name is Puvana, Boom now I'm a Software Engineering student from Bangkok, Thailand 🇹🇭.
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=noboomta)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -38,14 +38,12 @@
   ![Github stats](https://github-readme-stats.vercel.app/api?username=noboomta&theme=tokyonight&show_icons=true&count_private=true&) 
   
 <hr>
- 
 
 ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/Noboomta/Computer-Programming2-SKE-KU-2019/pull/1) in [Noboomta/Computer-Programming2-SKE-KU-2019](https://github.com/Noboomta/Computer-Programming2-SKE-KU-2019)
 <!--END_SECTION:activity-->
-
 
 <a target="_blank" href="https://www.linkedin.com/in/puvana-swatvanith-74706b205/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:puvana.jp36@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
