@@ -1,5 +1,6 @@
 ### Hi visitor 👋
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=noboomta)
+![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/864?logoColor=white%26project=%26recentMS=604800000%26showProject=false)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
