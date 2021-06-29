@@ -37,7 +37,6 @@
   ![Github stats](https://github-readme-stats.vercel.app/api?username=noboomta&theme=tokyonight&show_icons=true&count_private=true&) 
   
   ![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/864?logoColor=white%26project=%26recentMS=1296000000%26showProject=false)
-  ![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/undefined?logoColor=white%26project=%26recentMS=86400000%26showProject=false)
   
 <hr>
 
