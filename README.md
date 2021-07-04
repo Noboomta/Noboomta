@@ -1,4 +1,3 @@
-### Hi visitor 👋
 #### My name is Puvana, Boom now I'm a Software Engineering student from Bangkok, Thailand 🇹🇭.
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=noboomta) -->
 
