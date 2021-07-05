@@ -1,5 +1,5 @@
 #### My name is Puvana, Boom now I'm a Software Engineering student from Bangkok, Thailand 🇹🇭.
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=noboomta) -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=noboomta)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
