@@ -21,7 +21,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=Firebase&logoColor=black)
 
-  * Second year student at [Kasetsart University](https://www.ku.ac.th/th)
+  * Third year student at [Kasetsart University](https://www.ku.ac.th/th)
   * [puvana-dev.web.app](https://puvana-dev.web.app/)
   * [noboomta.github.io](https://noboomta.github.io/)
   * [Facebook/boom.puvana](https://www.facebook.com/boom.puvana)
