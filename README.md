@@ -1,5 +1,6 @@
 #### My name is [Puvana Swatvanith, Boom](https://noboomta.github.io/) a Software Engineering student in Bangkok, Thailand 🇹🇭.
-![visitors](https://visitor-badge.glitch.me/badge?page_id=noboomta)
+
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=noboomta) <br>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -28,6 +29,12 @@
   * [Facebook/boom.puvana](https://www.facebook.com/boom.puvana)
   * [Instagram/noboomta](https://www.instagram.com/noboomta/)
   * [LinkedIn/puvana-swatvanith-74706b205](https://www.linkedin.com/in/puvana-swatvanith-74706b205/)
+
+<a target="_blank" href="https://www.linkedin.com/in/puvana-swatvanith-74706b205/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:puvana.jp36@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a href="https://discord.gg/pdaBb6atYc" alt="Discord" title="MANGO_Rb6_Team">
+     <img src="https://img.shields.io/discord/421675016485077003?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/>
+</a>
  
 <hr>
  
@@ -35,6 +42,7 @@
   
   ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=noboomta&layout=compact&theme=tokyonight&langs_count=10&hide=CMake,Makefile)
   ![Github stats](https://github-readme-stats.vercel.app/api?username=noboomta&theme=tokyonight&show_icons=true&count_private=true&) 
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=noboomta&theme=dark)](https://git.io/streak-stats)
   
   ![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/864?logoColor=white%26project=%26recentMS=1296000000%26showProject=false)
   
@@ -45,6 +53,3 @@
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/Noboomta/Computer-Programming2-SKE-KU-2019/pull/1) in [Noboomta/Computer-Programming2-SKE-KU-2019](https://github.com/Noboomta/Computer-Programming2-SKE-KU-2019)
 <!--END_SECTION:activity-->
-
-<a target="_blank" href="https://www.linkedin.com/in/puvana-swatvanith-74706b205/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:puvana.jp36@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
