@@ -51,5 +51,5 @@
 ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Noboomta/Computer-Programming2-SKE-KU-2019/pull/1) in [Noboomta/Computer-Programming2-SKE-KU-2019](https://github.com/Noboomta/Computer-Programming2-SKE-KU-2019)
+1. 🎉 Merged PR [#16](https://github.com/Noboomta/schedule-ku/pull/16) in [Noboomta/schedule-ku](https://github.com/Noboomta/schedule-ku)
 <!--END_SECTION:activity-->
