@@ -48,8 +48,8 @@
   
 <hr>
 
-<!-- ⚡ Recent Activity
+⚡ Recent Activity
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/Noboomta/Computer-Programming2-SKE-KU-2019/pull/1) in [Noboomta/Computer-Programming2-SKE-KU-2019](https://github.com/Noboomta/Computer-Programming2-SKE-KU-2019)
-<!--END_SECTION:activity--> -->
+<!--END_SECTION:activity-->
