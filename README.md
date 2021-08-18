@@ -9,12 +9,12 @@
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-A8B9CC?style=flat&logo=C%2B%2B&logoColor=white)
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+<!-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) -->
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-<!-- ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white) -->
+![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=Firebase&logoColor=red)
 <!-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) -->
