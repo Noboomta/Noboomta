@@ -11,6 +11,7 @@
 
 <!-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) -->
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-yellow?style=flat&logo=express&logoColor=black)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
