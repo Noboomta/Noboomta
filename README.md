@@ -52,5 +52,5 @@
 ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/Noboomta/schedule-ku/pull/16) in [Noboomta/schedule-ku](https://github.com/Noboomta/schedule-ku)
+1. ❗️ Opened issue [#2803](https://github.com/type-challenges/type-challenges/issues/2803) in [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)
 <!--END_SECTION:activity-->
