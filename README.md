@@ -52,5 +52,5 @@
 ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Noboomta/noboomta.github.io/pull/1) in [Noboomta/noboomta.github.io](https://github.com/Noboomta/noboomta.github.io)
+1. 🎉 Merged PR [#1](https://github.com/Noboomta/Cyber-Ware/pull/1) in [Noboomta/Cyber-Ware](https://github.com/Noboomta/Cyber-Ware)
 <!--END_SECTION:activity-->
