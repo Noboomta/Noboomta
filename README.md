@@ -52,5 +52,5 @@
 ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2803](https://github.com/type-challenges/type-challenges/issues/2803) in [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)
+1. 🎉 Merged PR [#1](https://github.com/Noboomta/noboomta.github.io/pull/1) in [Noboomta/noboomta.github.io](https://github.com/Noboomta/noboomta.github.io)
 <!--END_SECTION:activity-->
