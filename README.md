@@ -45,7 +45,7 @@
   ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=noboomta&layout=compact&theme=tokyonight&langs_count=10&hide=CMake,Makefile)
   ![Github stats](https://github-readme-stats.vercel.app/api?username=noboomta&theme=tokyonight&show_icons=true&count_private=true&) 
 <!--   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=noboomta&theme=dark)](https://git.io/streak-stats) -->
-<!--   [![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/864?logoColor=white%26project=%26recentMS=1296000000%26showProject=false) -->
+<!--   ![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/864?logoColor=white%26project=%26recentMS=1296000000%26showProject=false) -->
   
 <hr>
 
