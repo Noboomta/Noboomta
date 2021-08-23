@@ -52,5 +52,5 @@
 ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Noboomta/Cyber-Ware/pull/1) in [Noboomta/Cyber-Ware](https://github.com/Noboomta/Cyber-Ware)
+1. 🎉 Merged PR [#1](https://github.com/Noboomta/schedule-ku-server/pull/1) in [Noboomta/schedule-ku-server](https://github.com/Noboomta/schedule-ku-server)
 <!--END_SECTION:activity-->
