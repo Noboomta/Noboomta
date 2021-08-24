@@ -52,5 +52,5 @@
 ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Noboomta/schedule-ku-server/pull/2) in [Noboomta/schedule-ku-server](https://github.com/Noboomta/schedule-ku-server)
+1. 🎉 Merged PR [#17](https://github.com/Noboomta/KU-Table/pull/17) in [Noboomta/KU-Table](https://github.com/Noboomta/KU-Table)
 <!--END_SECTION:activity-->
