@@ -32,6 +32,7 @@
   * [Instagram/noboomta](https://www.instagram.com/noboomta/)
   * [LinkedIn/puvana-swatvanith-74706b205](https://www.linkedin.com/in/puvana-swatvanith-74706b205/)
 
+
 <a target="_blank" href="https://www.linkedin.com/in/puvana-swatvanith-74706b205/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:puvana.jp36@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a href="https://discord.gg/6VAdnpcUnr" alt="Discord" title="MANGO_Rb6_Team">
