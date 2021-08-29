@@ -51,5 +51,5 @@
 ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/Noboomta/KU-Table/pull/17) in [Noboomta/KU-Table](https://github.com/Noboomta/KU-Table)
+1. 🗣 Commented on [#19](https://github.com/KU-Table/KU-Table/issues/19) in [KU-Table/KU-Table](https://github.com/KU-Table/KU-Table)
 <!--END_SECTION:activity-->
