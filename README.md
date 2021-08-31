@@ -24,7 +24,7 @@
 ![Gitlab](https://img.shields.io/badge/-Gitlab-181717?style=flat&logo=GitLab&logoColor=red)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-  * 3rd year student at [Kasetsart University](https://www.ku.ac.th/th)
+  * 3rd year student at [Kasetsart University](https://www.ku.ac.th/th) Thailand
   * [puvana-dev.web.app](https://puvana-dev.web.app/)
   * [noboomta.github.io](https://noboomta.github.io/)
   * [Facebook/boom.puvana](https://www.facebook.com/boom.puvana)
