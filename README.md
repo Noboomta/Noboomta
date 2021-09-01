@@ -51,5 +51,5 @@
 ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/KU-Table/KU-Table/issues/19) in [KU-Table/KU-Table](https://github.com/KU-Table/KU-Table)
+1. 🎉 Merged PR [#1](https://github.com/Noboomta/coffeemaker/pull/1) in [Noboomta/coffeemaker](https://github.com/Noboomta/coffeemaker)
 <!--END_SECTION:activity-->
