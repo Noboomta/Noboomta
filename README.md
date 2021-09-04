@@ -37,7 +37,7 @@
      <img src="https://img.shields.io/discord/421675016485077003?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"></img>
 </a>
  
-<hr>
+<!-- <hr> -->
  
 <!-- 📈 My GitHub Stats
   
