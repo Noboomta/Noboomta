@@ -1,5 +1,4 @@
 #### My name is [Puvana Swatvanith, Boom](https://noboomta.github.io/) a Software Engineering student in Bangkok Thailand.
-
 <!-- 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=noboomta)
  -->
