@@ -53,5 +53,5 @@
 ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/Noboomta/KU-Table/issues/22) in [Noboomta/KU-Table](https://github.com/Noboomta/KU-Table)
+1. ❗️ Closed issue [#21](https://github.com/Noboomta/KU-Table/issues/21) in [Noboomta/KU-Table](https://github.com/Noboomta/KU-Table)
 <!--END_SECTION:activity-->
