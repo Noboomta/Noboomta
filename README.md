@@ -21,9 +21,9 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=Firebase&logoColor=red)
 <!-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) -->
 
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/-Github-181717?style=flat&logo=GitHub&logoColor=white)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-181717?style=flat&logo=GitLab&logoColor=red)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
   * 3rd year student at [Kasetsart University](https://www.ku.ac.th/th) [Thailand]
   * [puvana-dev.web.app](https://puvana-dev.web.app/)
