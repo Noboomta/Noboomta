@@ -4,6 +4,7 @@
 
  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00add8?style=flat&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-java-007396?style=flat&logo=java&logoColor=red)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=Ruby&logoColor=white)
