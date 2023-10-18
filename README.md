@@ -1,4 +1,4 @@
-#### My name is [Puvana Swatvanith, Boom](https://noboomta.github.io/) a Software Engineering student in Bangkok Thailand.
+#### My name is [Puvana Swatvanith, Boom](https://noboomta.github.io/) a Software Engineering in Bangkok Thailand.
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=noboomta) -->
 
@@ -26,7 +26,7 @@
 ![Github](https://img.shields.io/badge/-Github-181717?style=flat&logo=GitHub&logoColor=white)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-181717?style=flat&logo=GitLab&logoColor=red)
 
-  * 3rd year student at [Kasetsart University](https://www.ku.ac.th/th) TH
+  * Graduated from Software and Knowledge Engineering at [Kasetsart University](https://www.ku.ac.th/th) TH
   * [puvana-dev.web.app](https://puvana-dev.web.app/)
   * [noboomta.github.io](https://noboomta.github.io/)
   * [Facebook/boom.puvana](https://www.facebook.com/boom.puvana)
