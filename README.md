@@ -1,30 +1,10 @@
-#### My name is [Puvana Swatvanith, Boom](https://noboomta.github.io/) a Software Engineering in Bangkok Thailand.
+[Puvana Swatvanith (Boom)](https://noboomta.github.io/), Software Engineering in Bangkok Thailand.
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=noboomta) -->
 
- 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+I love
+<br>
 ![Go](https://img.shields.io/badge/-Go-00add8?style=flat&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-java-007396?style=flat&logo=java&logoColor=red)
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=Ruby&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-A8B9CC?style=flat&logo=C%2B%2B&logoColor=white)
-
-<!-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) -->
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-yellow?style=flat&logo=express&logoColor=black)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=Firebase&logoColor=red)
-<!-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) -->
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/-Github-181717?style=flat&logo=GitHub&logoColor=white)
-![Gitlab](https://img.shields.io/badge/-Gitlab-181717?style=flat&logo=GitLab&logoColor=red)
 
   * Graduated from Software and Knowledge Engineering at [Kasetsart University](https://www.ku.ac.th/th) TH
   * [puvana-dev.web.app](https://puvana-dev.web.app/)
